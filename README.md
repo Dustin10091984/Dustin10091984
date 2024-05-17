@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dustin</h1>
+<h1 align="center">Hi 👋, I'm Dustin Rodney Tinney</h1>
 <h3 align="center">A passionate frontend developer from the USA</h3>
 
 - 🔭 I’m currently working on [Countries App](https://github.com/Parvizkh88/int-fs7-frontend-project)
