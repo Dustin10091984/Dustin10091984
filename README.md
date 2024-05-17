@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi 👋, I'm Dustin
 
-<!--
-**Dustin10091984/Dustin10091984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate frontend developer from the USA
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Docker
+- 💬 Ask me about React.js
+- 📫 How to reach me: rodneytinneydustin@gmail.com
+- 📄 Know about my experiences [Link to your Resume]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+[LinkedIn Icon](https://www.linkedin.com/in/yourprofile) 
+
+## Languages and Tools:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+
+## GitHub Stats:
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+
+## Top Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
