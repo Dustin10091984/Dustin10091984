@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dustin Rodney Tinney</h1>
 <h3 align="center">A passionate frontend developer from the USA</h3>
 
-- 🔭 I’m currently working on [Countries App](https://github.com/Parvizkh88/int-fs7-frontend-project)
+- 🔭 I’m currently working on [Countries App](https://github.com/Dustin10091984/Countries-API)
 
 - 🌱 I’m currently learning **Docker**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/parviz khodavandegar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parviz khodavandegar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dustin-rodney-tinney-99252730b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dustin Rodney Tinney" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
